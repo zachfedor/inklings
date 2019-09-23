@@ -1,6 +1,7 @@
 # inklings
 A complete library of ink samples offered by your philanthropic fountain pen friends of Lancaster, PA.
 
+![Ink Drip](ink-drip.jpg)
 
 ## how this works
 
