@@ -24,3 +24,10 @@ This is a curated list of samples or bottles that each contributor is willing to
     - [Diamine Woodland Green](https://www.gouletpens.com/products/diamine-woodland-green-ink-sample?variant=11884663767083)
     - [Pilot Iroshizuku Chiku-rin](https://www.gouletpens.com/products/pilot-iroshizuku-chiku-rin-ink-sample?variant=11884702072875)
     - [Rohrer & Klingner Alt-Goldgrün](https://www.gouletpens.com/products/rohrer-klingner-alt-goldgrun-ink-sample?variant=11884702728235)
+- [@tomswartz07](https://github.com/tomswartz07)
+  - Samples:
+    - [Robert Oster Deep Sea Green](https://www.gouletpens.com/products/robert-oster-deep-sea-50ml-bottled-ink?variant=11884771835947)
+    - [Colorverse Vortex Motion](https://colorverseink.com/product/vortex-motion-17/27/)
+    - [Diamine Oxblood](https://www.gouletpens.com/products/diamine-oxblood-30ml-bottled-ink?variant=11884622610475)
+  - Bottles:
+    - [Birmingham](https://www.birminghampens.com/) inks by request.
