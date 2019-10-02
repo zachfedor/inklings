@@ -3,12 +3,12 @@ A complete library of ink samples offered by your philanthropic fountain pen fri
 
 ![Ink Drip](ink-drip.jpg)
 
-## how this works
+## How this works
 
 This is a curated list of samples or bottles that each contributor is willing to share. Submit a PR to add your inks to the list and you can get added as a contributor. If you want to test a color that's listed, post an issue and mention the contributor or reach out to them on another medium. The only rule is share and share alike!
 
 
-## the list
+## The list
 
 - [@zachfedor](https://github.com/zachfedor):
   - Bottles:
