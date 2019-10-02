@@ -11,12 +11,12 @@ This is a curated list of samples or bottles that each contributor is willing to
 ## the list
 
 - [@zachfedor](https://github.com/zachfedor):
-  - bottles:
+  - Bottles:
     - [Diamine Oxblood](https://www.gouletpens.com/products/diamine-oxblood-30ml-bottled-ink?variant=11884622610475)
     - [Noodler's Black](https://www.gouletpens.com/products/noodlers-black-3oz-bottled-ink?variant=11884735791147)
     - [Noodler's Midway](https://www.gouletpens.com/products/noodlers-midway-blue-3oz-bottled-ink?variant=11884738805803)
     - [Pilot Iroshizuku Fuyu-syogun](https://www.gouletpens.com/products/pilot-iroshizuku-fuyu-syogun-50ml-bottled-ink?variant=11884757319723)
-  - samples:
+  - Samples:
     - [De Atramentis Mahatma Gandhi](https://www.gouletpens.com/products/de-atramentis-mahatma-gandhi-ink-sample?variant=11884674580523)
     - [Diamine Aurora Borealis](https://www.gouletpens.com/products/diamine-aurora-borealis-ink-sample?variant=15377208344619)
     - [Diamine Lilac Night](https://www.gouletpens.com/products/diamine-lilac-night-ink-sample?variant=11884660621355)
